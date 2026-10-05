@@ -5,7 +5,7 @@
 ## 目录结构
 
 ```
-meta/                       – 元标准：标准体系的基础概念与字段定义
-  index.md                  – 元标准定义
-  field.md                  – 标准字段
+index.md                    – 元标准定义
 ```
+
+标准字段已迁至案例集：`docs/gallery/ontology/property/index.md`（本体标准属性）。

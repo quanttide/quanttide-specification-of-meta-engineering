@@ -1,4 +1,4 @@
-# quanttide-specification-of-philosophy
+# quanttide-specification-of-meta-engineering
 
 量潮元工程标准
 
